@@ -1,0 +1,54 @@
+---
+title: Projects and Code
+author: Job Feldbrugge
+header-includes:
+    <link rel = "icon" href = "figures/icon.jpg" type = "image/x-icon"> 
+    <div class="topnav">
+      <a href="https://www2.perimeterinstitute.ca/personal/jfeldbrugge/">Home</a>
+      <a href="https://jfeldbrugge.github.io/">Projects and Code</a>
+    </div>
+---
+
+I am a Postdoctoral researcher at the <a href="https://www.perimeterinstitute.ca/">Perimeter Institute for Theoretical Physics</a> in Waterloo (Canada) and <a href="https://www.cmu.edu/physics/">Carnegie Mellon University</a> in Pittsburgh (United States). I am passionate about theoretical cosmology and theoretical physics in general. For more details, see my <a href="https://www.perimeterinstitute.ca/personal/jfeldbrugge/">personal website</a>. On this website, I share the documentation of a couple projects:
+
+* <a href="https://jfeldbrugge.github.io/Schrodinger/"> Schrödinger code</a>: Quantum mechanics is a fundamental in physics describing the evolution of non-relativistic quantum systems. In this webpage, I solve the time-dependent Schrödinger equation using the Suzuki-Trotter method. I illustrate the code with a one- and two-dimensional example.
+<figure>
+<img src='figures/Harmonic_Oscillator.gif' width=100% />
+<figcaption> Fig. 1 - The evolution of a Gaussian wave packet in a harmonic oscillator</figcaption>
+</figure>
+* <a href="https://p-lpi.github.io/"> Picard-Lefschetz code</a>: Oscillatory integrals are fundamental to physics but subtle to define and often difficult to evaluate. Using Picard-Lefschetz theory, I develop a new method to evaluate multi-dimensional oscillatory integrals. The code is demonstrated with several lensing problems in wave optics.
+<figure>
+<img class="center" src="figures/2D plasma lens.gif" width=75% />
+<figcaption> Fig. 2 - A two-dimensional lens as a function of the frequency </figcaption>
+</figure>
+
+<!---
+* <a href="https://jfeldbrugge.github.io/Caustic-Skeleton/"> Caustic skeleton</a>: The cosmic can be understood in terms of the caustics of its formation history.
+-->
+
+
+* <a href="https://jfeldbrugge.github.io/Catastrophe-Theory/"> Catastrophe theory</a>: Catastrophe theory is the classification of degenerate critical points. In these notes I give an impression of the mathematics underlying Catastrophe theory following <a href="https://www.routledge.com/Catastrophe-Theory-Second-Edition/Castrigiano-Hayes/p/book/9780813341255">Catastrophe Theory</a> by Domenico Castrigiano and Sandra Hayes.
+
+ <figure>
+<img src='figures/ZeemanMachine.png' width=90% />
+  <figcaption> Fig. 3 - The Zeeman catastrophe machine</figcaption>
+ </figure>
+
+
+* <a href="https://jfeldbrugge.github.io/Galois-Theory/">Topological Galois theory</a>: I prove the famous unsolvability of polynomials with degree higher than $4$ using topological Galois theory. The discussion is based on an elementary proof developed Vladimir I. Arnol'd in a lecture series for high school students in 1963. For the original proof see the transcript of the lecture series <a href="https://link.springer.com/book/10.1007/1-4020-2187-9"> Abel’s Theorem in Problems and Solutions</a>. The notes are also based on the review paper by <a href="https://projecteuclid.org/journals/topological-methods-in-nonlinear-analysis/volume-16/issue-2/The-topological-proof-of-Abel-Ruffini-theorem/tmna/1471875703.full"> Henryk Żolądek </a> and the talk by <a href="https://www.youtube.com/watch?v=2eOw_TKsFXg&ab_channel=MichaelO%27Connor"> Michael O'Connor</a>.
+
+<figure>
+<table align='left' width=100% id="FIG">
+<tr>
+<td><img src='figures/RootsPrime.png' width=90% /></td>
+<td><img src='figures/Roots.png' width=90% /></td>
+</tr>
+ </table>
+ <figcaption> Fig. 4 - The trajectories of the roots (right) under a loop in function space (left)</figcaption>
+</figure>
+
+* <a href="https://jfeldbrugge.github.io/One-piece-Cody/"> One-piece Cody kite</a>: In the nineteenth century <a href="https://en.wikipedia.org/wiki/Samuel_Franklin_Cody">Samuel Franklin Cody</a> developed the *Cody War-Kites*, which were large kites able to lift persons to great hight, and were used by the British before World War I as a smaller alternative to balloons for artillery spotting. More recently, Ton Vinken developed an adaptation of the Cody kite which can be constructed out of a single piece of material. Unfortunately, it is currently difficult to find plans online. Inspired by this idea, I constructed a plan which I hope will encourage others to build the one-piece Cody kite.
+<figure>
+<img src="figures/Cody.png" width=100% />
+<figcaption> Fig. 5 - One piece cody kite </figcaption>
+</figure>
