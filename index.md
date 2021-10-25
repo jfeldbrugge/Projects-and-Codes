@@ -4,8 +4,8 @@ author: Job Feldbrugge
 header-includes:
     <link rel = "icon" href = "figures/icon.jpg" type = "image/x-icon"> 
     <div class="topnav">
-      <a href="https://www2.perimeterinstitute.ca/personal/jfeldbrugge/">Home</a>
-      <a href="https://jfeldbrugge.github.io/">Projects and Code</a>
+      <a href="https://jfeldbrugge.github.io/">Home</a>
+      <a href="https://jfeldbrugge.github.io/Projects-and-Codes/">Projects and Code</a>
     </div>
 ---
 
