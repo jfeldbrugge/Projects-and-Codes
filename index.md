@@ -26,12 +26,20 @@ I am a Higgs fellow at the <a href="https://higgs.ph.ed.ac.uk/">Higgs Centre for
 * <a href="https://jfeldbrugge.github.io/Caustic-Skeleton/"> Caustic skeleton</a>: The cosmic can be understood in terms of the caustics of its formation history.
 -->
 
+* <a href="https://jfeldbrugge.github.io/DTFE/"> DTFE</a>: Delaunay Tesselation Field Estimator (DTFE) is a mathematical tool for the reconstruction of the density and velocity field of a discrete point set developed by Willem Schaap and Rien van de Weijgaert (<a href="https://www.astro.rug.nl/~weygaert/tim1publication/weyval2004.pdf">Schaap and Weijgaert 2004</a>, <a href="https://web.archive.org/web/20071210093614/http://dissertations.ub.rug.nl/faculties/science/2007/w.e.schaap/?FullItemRecord=ON">Willem Schaap 2007</a>).
+
+ <figure>
+<img src='figures/Delaunay.png' width=60% />
+  <figcaption> Fig. 3 - DTFE</figcaption>
+ </figure>
+
+
 
 * <a href="https://jfeldbrugge.github.io/Catastrophe-Theory/"> Catastrophe theory</a>: Catastrophe theory is the classification of degenerate critical points. In these notes I give an impression of the mathematics underlying Catastrophe theory following <a href="https://www.routledge.com/Catastrophe-Theory-Second-Edition/Castrigiano-Hayes/p/book/9780813341255">Catastrophe Theory</a> by Domenico Castrigiano and Sandra Hayes.
 
  <figure>
 <img src='figures/ZeemanMachine.png' width=90% />
-  <figcaption> Fig. 3 - The Zeeman catastrophe machine</figcaption>
+  <figcaption> Fig. 4 - The Zeeman catastrophe machine</figcaption>
  </figure>
 
 
@@ -44,11 +52,11 @@ I am a Higgs fellow at the <a href="https://higgs.ph.ed.ac.uk/">Higgs Centre for
 <td><img src='figures/Roots.png' width=90% /></td>
 </tr>
  </table>
- <figcaption> Fig. 4 - The trajectories of the roots (right) under a loop in function space (left)</figcaption>
+ <figcaption> Fig. 5 - The trajectories of the roots (right) under a loop in function space (left)</figcaption>
 </figure>
 
 * <a href="https://jfeldbrugge.github.io/One-piece-Cody/"> One-piece Cody kite</a>: In the nineteenth century <a href="https://en.wikipedia.org/wiki/Samuel_Franklin_Cody">Samuel Franklin Cody</a> developed the *Cody War-Kites*, which were large kites able to lift persons to great hight, and were used by the British before World War I as a smaller alternative to balloons for artillery spotting. More recently, Ton Vinken developed an adaptation of the Cody kite which can be constructed out of a single piece of material. Unfortunately, it is currently difficult to find plans online. Inspired by this idea, I constructed a plan which I hope will encourage others to build the one-piece Cody kite.
 <figure>
 <img src="figures/Cody.png" width=100% />
-<figcaption> Fig. 5 - One piece cody kite </figcaption>
+<figcaption> Fig. 6 - One piece cody kite </figcaption>
 </figure>
