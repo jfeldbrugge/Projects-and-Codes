@@ -30,7 +30,7 @@ I am a Higgs fellow at the <a href="https://higgs.ph.ed.ac.uk/">Higgs Centre for
 
  <figure>
 <img src='figures/Delaunay.png' width=60% />
-  <figcaption> Fig. 3 - DTFE</figcaption>
+  <figcaption> Fig. 3 - Delaunay triangulation</figcaption>
  </figure>
 
 
