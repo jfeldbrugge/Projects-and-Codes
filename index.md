@@ -2,7 +2,7 @@
 title: Projects and Code
 author: Job Feldbrugge
 header-includes:
-    <link rel = "icon" href = "figures/icon.jpg" type = "image/x-icon"> 
+    <link rel = "icon" href = "figures/icon.png" type = "image/x-icon"> 
     <div class="topnav">
       <a href="https://jfeldbrugge.github.io/">Home</a>
       <a href="https://jfeldbrugge.github.io/Projects-and-Codes/">Projects and Code</a>
