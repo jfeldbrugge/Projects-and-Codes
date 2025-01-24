@@ -68,11 +68,11 @@ I am a Higgs fellow at the <a href="https://higgs.ph.ed.ac.uk/">Higgs Centre for
 </tr>
  </table>
  </a>
- <figcaption> Fig. 5 - The trajectories of the roots (right) under a loop in function space (left)</figcaption>
+ <figcaption> Fig. 6 - Gaussian random fields: the primordial density field (right) and gravitational potential (left)</figcaption>
 </figure>
 
 * <a href="https://jfeldbrugge.github.io/One-piece-Cody/"> One-piece Cody kite</a>: In the nineteenth century <a href="https://en.wikipedia.org/wiki/Samuel_Franklin_Cody">Samuel Franklin Cody</a> developed the *Cody War-Kites*, which were large kites able to lift persons to great hight, and were used by the British before World War I as a smaller alternative to balloons for artillery spotting. More recently, Ton Vinken developed an adaptation of the Cody kite which can be constructed out of a single piece of material. Unfortunately, it is currently difficult to find plans online. Inspired by this idea, I constructed a plan which I hope will encourage others to build the one-piece Cody kite.
 <figure>
 <a href="https://jfeldbrugge.github.io/One-piece-Cody/"><img src="figures/Cody.png" width=100% /></a>
-<figcaption> Fig. 6 - One piece cody kite </figcaption>
+<figcaption> Fig. 7 - One piece cody kite </figcaption>
 </figure>
