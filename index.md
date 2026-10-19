@@ -9,7 +9,7 @@ header-includes:
     </div>
 ---
 
-I am a Higgs fellow at the <a href="https://higgs.ph.ed.ac.uk/">Higgs Centre for Theoretical Physics</a> at the <a href="https://www.ed.ac.uk/">University of Edinburgh</a> in Scotland. I am passionate about theoretical cosmology and theoretical physics in general. For more details, see my <a href="https://jfeldbrugge.github.io/">personal website</a>. On this page, I share the documentation of a couple projects:
+I am a Postdoctoral Fellow at the <a href="https://lecospa.ntu.edu.tw/">Leung Center for Cosmology and Particle Astrophysics</a> at <a href="https://www.ntu.edu.tw/english/">National Taiwan University</a> and a Member of the <a href="https://www.ias.edu/">Institute for Advanced Study</a> in Princeton. I am passionate about theoretical cosmology and theoretical physics in general. For more details, see my <a href="https://jfeldbrugge.github.io/">personal website</a>. On this page, I share the documentation of a couple projects:
 
 * <a href="https://jfeldbrugge.github.io/Schrodinger/"> Schrödinger code</a>: Quantum mechanics is a fundamental in physics describing the evolution of non-relativistic quantum systems. In this webpage, I solve the time-dependent Schrödinger equation using the Suzuki-Trotter method. I illustrate the code with a one- and two-dimensional example.
 <figure>
