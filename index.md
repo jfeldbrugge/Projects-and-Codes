@@ -46,6 +46,18 @@ A two-dimensional lens as a function of the frequency
 Oscillatory integrals are fundamental to physics but subtle to define and often difficult to evaluate. Using Picard-Lefschetz theory, I develop a new method to evaluate multi-dimensional oscillatory integrals. The code is demonstrated with several lensing problems in wave optics.
 :::::
 
+::::: project
+[![](figures/Caustics-Local-Universe.jpg){alt="Caustic walls of the cosmic web around the Coma Cluster in a three-dimensional simulation box"}](https://jfeldbrugge.github.io/Caustics-Local-Universe/){.thumb}
+
+::: caption
+The caustic walls (A~3~) around the Coma Cluster in Eulerian space
+:::
+
+### [Caustic skeleton of the local cosmic web](https://jfeldbrugge.github.io/Caustics-Local-Universe/)
+
+Additional video material for the paper <a href="https://arxiv.org/abs/2604.22213">Caustic Skeleton and the Local Cosmic Web: the Coma Cluster node and the Pisces-Perseus ridge</a> (2026) with Amelie Read, Celine Boehm, Rien van de Weygaert and Benjamin Hertzsch. Rotating and zoom-in animations show the caustic skeleton, its walls and filaments, around the Coma Cluster and the Pisces-Perseus supercluster in both Lagrangian and Eulerian space.
+:::::
+
 <!---
 * <a href="https://jfeldbrugge.github.io/Caustic-Skeleton/"> Caustic skeleton</a>: The cosmic can be understood in terms of the caustics of its formation history.
 -->
